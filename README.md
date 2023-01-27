@@ -124,7 +124,8 @@ Execute the program
 
 
 # HTML VALIDATOR
-![HTML VALIDATOR]
+![HTML VALIDATOR]![valid 1](https://user-images.githubusercontent.com/119393019/215145212-c3d11d5f-8ac3-4dc4-afa8-b960f62361fa.png)
+
 
 # RESULT
 The program for creating slot time table is completed successfully
